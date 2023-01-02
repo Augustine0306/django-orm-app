@@ -44,7 +44,7 @@ Include your code here
 
 ![OUTPUT](image/primarykey.png)
 
-![OUTPUT](image/EMPLOYEE NAME.png)
+![OUTPUT](image/augus.png)
 
 Include the screenshot of your admin page.
 
